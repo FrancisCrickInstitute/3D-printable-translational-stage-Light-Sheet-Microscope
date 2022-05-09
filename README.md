@@ -30,3 +30,5 @@ Figure 3: Completed assembly.
 
 
 ![alt text](https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope/blob/main/Exploded%20view.gif?raw=true)
+
+Figure 4: Exploded assembly

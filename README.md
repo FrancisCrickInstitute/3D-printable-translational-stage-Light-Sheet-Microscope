@@ -1,4 +1,4 @@
-# 3D-printable-translational-stage-Light-Sheet-Microscope
+# 3D printable translational stage Light Sheet Microscope
 
 
 In this technical note we present a fully 3D printable linear stage designed to give the researchers a tool to acquire equally spaced images 

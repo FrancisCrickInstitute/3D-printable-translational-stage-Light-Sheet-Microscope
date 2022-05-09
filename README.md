@@ -17,6 +17,7 @@ This device has been printed using a Form 3 3D printer filled with clear V4 resi
 
 ![image](https://user-images.githubusercontent.com/54901317/167380534-9444890a-f8cd-4e98-b980-974d4ac3462c.png)
 
+Figure 2: M2 tap hand tool (left) and Threaded M2 holes (right).
  
 Figure 2: M2 tap hand tool (left) and Threaded M2 holes (right).
 3-	Insert the two M2 screws that act as a guides while you place the platform holes on the path of the screws.
@@ -25,6 +26,6 @@ Figure 2: M2 tap hand tool (left) and Threaded M2 holes (right).
 
 ![image](https://user-images.githubusercontent.com/54901317/167380561-ca299561-d046-4cb8-a9ef-b3ce0dedbe38.png)
 
-Figure 2: Completed assembly.
+Figure 3: Completed assembly.
 
 

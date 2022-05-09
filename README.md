@@ -29,4 +29,4 @@ Figure 2: M2 tap hand tool (left) and Threaded M2 holes (right).
 Figure 3: Completed assembly.
 
 
-![alt text](https://user-images.githubusercontent.com/54901317/167383007-07d41b7b-523c-4ca8-9655-57581ba8e35c.png)
+![alt text](https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope/blob/main/Exploded%20view.gif?raw=true)
